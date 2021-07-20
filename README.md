@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with -->
 
 - 🔭 I’m currently working on Youtube Tutorials and Redoing my portfolio check out https://devpragmatico.com
-- 🌱 I’m currently learning React Native, algorithms
+- 🌱 I’m currently learning Algorithms, Systems Design
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: best through Twitter https://twitter.com/devpragmatico or  LinkedIn https://www.linkedin.com/in/jesus-rod/
 - ⚡ Fun fact: No fun here, get back to work
