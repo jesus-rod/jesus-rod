@@ -8,6 +8,6 @@
 
 - 🔭 I’m currently working on Youtube Tutorials and Redoing my portfolio check out https://devpragmatico.com
 - 🌱 I’m currently learning Algorithms, Systems Design
-- 💬 Ask me about iOS Development
+- 💬 Ask me about iOS Development, React, Typescript, Scala and AWS
 - 📫 How to reach me: best through Twitter https://twitter.com/devpragmatico or  LinkedIn https://www.linkedin.com/in/jesus-rod/
 - ⚡ Fun fact: No fun here, get back to work
